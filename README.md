@@ -35,10 +35,9 @@ python keylogger.py
 🔴 If running in the background, end "Python" process via Task Manager.
 
 📜 Code Implementation
-python
+'''python
 Copy
 Edit
-'''python
 from pynput import keyboard
 
 def on_press(key):
