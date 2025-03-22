@@ -17,12 +17,14 @@ Copy
 Edit
 git clone https://github.com/Kalyan16114421/KeyLogger
 cd keylogger-python
+
 2️⃣ Install Dependencies:
 
 bash
 Copy
 Edit
 pip install pynput
+
 3️⃣ Run the Keylogger:
 
 bash
